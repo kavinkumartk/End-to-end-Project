@@ -16,13 +16,13 @@ It uses a **Decision Tree Classifier** for training and provides both **explorat
 
 ## 📂 **Project Structure**
 
-├── app.py                  # Streamlit app for prediction
-├── code.ipynb              # Jupyter notebook for training & EDA
-├── destree_model.sav       # Saved Decision Tree model
-├── req.txt                 # Requirements file
-├── student_exam_tree.csv   # Dataset
-├── decision_tree.png       # Decision Tree visualization image
-├── README.md               # Documentation
+├── app.py # Streamlit app for prediction
+├── code.ipynb # Jupyter notebook for training & EDA
+├── destree_model.sav # Saved Decision Tree model
+├── req.txt # Requirements file
+├── student_exam_tree.csv # Dataset
+├── decision_tree.png # Decision Tree visualization image
+├── README.md # Documentation
 
 ---
 
@@ -51,13 +51,12 @@ Below is the visualization of the trained **Decision Tree** model:
 
 Here is the interface of the **Streamlit App**:  
 
-![Streamlit App](appimg.png)
+![Streamlit App](appimage.png)
 
 ---
 
 ## 📌 **Future Improvements**
 
-```text
 - Add more student-related features (assignments completed, stress level, etc.).  
 - Compare with other ML models such as SVM, Random Forest, and Logistic Regression.  
 - Deploy the app on Streamlit Cloud for easy access.  
@@ -66,7 +65,11 @@ Here is the interface of the **Streamlit App**:
 
 ---
 
-## **AUTHOR : KAVINKUMAR T**
-## **GITHUB : https://github.com/kavinkumart **
 
----
+## 👨‍💻 **Author**
+
+AUTHOR : KAVINKUMAR T  
+GITHUB : https://github.com/kavinkumart  
+
+---
+
