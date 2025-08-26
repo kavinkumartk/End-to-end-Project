@@ -52,7 +52,7 @@ Below is the visualization of the trained **Decision Tree** model:
 
 Here is the interface of the **Streamlit App**:  
 
-![Streamlit App](appimage.png)
+![Streamlit App](C:\Users\kavin\OneDrive\Desktop\svm and decision tree\decision_tree.png)
 
 ---
 
